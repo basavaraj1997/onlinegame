@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/onlinegame/static/css/main.fff696ac.css",
+    "main.js": "/onlinegame/static/js/main.62c2fa51.js",
+    "static/js/453.a0046cf0.chunk.js": "/onlinegame/static/js/453.a0046cf0.chunk.js",
+    "static/media/candy-crush-background-2.png": "/onlinegame/static/media/candy-crush-background-2.8b4a9f8ac020358fbc50.png",
+    "static/media/candy_crush_saga_rin.mp3": "/onlinegame/static/media/candy_crush_saga_rin.ca8f25c2b91cf4987df5.mp3",
+    "static/media/candy-game-pickup_by_sonic-boom_preview.mp3": "/onlinegame/static/media/candy-game-pickup_by_sonic-boom_preview.6f027e9229030f630fe5.mp3",
+    "static/media/gaming-candy-jewel_by_sonic-boom_preview.mp3": "/onlinegame/static/media/gaming-candy-jewel_by_sonic-boom_preview.d4a487b4a9089f66a9fb.mp3",
+    "static/media/ludo-bg.jpg": "/onlinegame/static/media/ludo-bg.428ccee7476fa52659a6.jpg",
+    "static/media/logo.svg": "/onlinegame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/onlinegame/index.html",
+    "main.fff696ac.css.map": "/onlinegame/static/css/main.fff696ac.css.map",
+    "main.62c2fa51.js.map": "/onlinegame/static/js/main.62c2fa51.js.map",
+    "453.a0046cf0.chunk.js.map": "/onlinegame/static/js/453.a0046cf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fff696ac.css",
+    "static/js/main.62c2fa51.js"
+  ]
+}
