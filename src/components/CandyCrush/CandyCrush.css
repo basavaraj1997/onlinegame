@@ -1,0 +1,45 @@
+.candy {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+.candyGame {
+    max-width: 100%;
+    width: 90vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    gap: 5px;
+    background-image: url('./candy-crush-background-2.png');
+    justify-content: center;
+
+    @media (min-width: 768px) {
+        width: 560px;
+    }
+}
+
+.candyGame img {
+    width: 100%;
+    height: auto;
+    max-width: 70px;
+    max-height: 70px;
+}
+.scoreBoard{
+    align-items: center;
+    color: red;
+}
+
+.glow {
+    animation: glowing 2s infinite alternate;
+  }
+  
+  @keyframes glowing {
+    0% {
+      box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00, 0 0 50px #00ff00, 0 0 60px #00ff00, 0 0 70px #00ff00;
+    }
+    100% {
+      box-shadow: 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00, 0 0 50px #00ff00, 0 0 60px #00ff00, 0 0 70px #00ff00, 0 0 80px #00ff00;
+    }
+  }
